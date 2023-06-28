@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Editing <code>src/App.js</code> and save to reload.
-          Docker !
+          Docker deploy on EBS!
         </p>
         <a
           className="App-link"
